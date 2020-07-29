@@ -1,0 +1,37 @@
+{
+    "drinks":[
+       {
+           "id": "1", 
+            "name": "gin tonic", 
+            "category": "long drink", 
+            "image": "./drinks/tonic.jpg",
+            "ingredients":[
+                {"gin": "30 ml"},
+                { "tonic": "60 ml"},
+                {"lime wedge": 1}
+            ]
+        },
+        {
+            "id": "2", 
+             "name": "cuba libre", 
+             "category": "long drink", 
+             "image": "./drinks/cuba.jpg",
+             "ingredients":[
+                {"rum": "30 ml"},
+                {"coca-cola": "60 ml"},
+                {"lime wedge": 1}
+                ]
+         },
+         {
+            "id": "3", 
+             "name": "vodka orange", 
+             "category": "long drink", 
+             "image": "./drinks/vodka_orange.jpeg",
+             "ingredients":[
+                {"vodka": "30 ml"},
+                {"orange juice": "60 ml"},
+                {"orange slice": 1}
+             ]
+         }
+    ]
+}
